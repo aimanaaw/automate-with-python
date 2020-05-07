@@ -15,3 +15,12 @@ print(mo3)
 # Match and replace a specific word. Specify the group. In this case group 1
 mo4 = namesRegex2.sub(r'Agent \1****', 'Agent Alice gave the secret documents to Agent Bob.')
 print(mo4)
+
+# Verbose Method /////
+re.compile(r'''
+	(\d\d\d-) | #area code
+	(\(\d\d\d))
+	\d\d\d\ #first dash
+	-		#second dash
+	\d\d\d\d
+	\sx\d{2,4} #last 4 digits''', re.VERBOSE | re.DOTALL | re.IGNORECASE)
