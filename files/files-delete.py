@@ -1,4 +1,4 @@
-import os, shutil
+import os, shutil, send2trash
 
 # os.unlink('bike.py') to delete file
 
@@ -14,3 +14,11 @@ import os, shutil
 
 # Run the above loop to delete a file but comment out the delete(unlink) action
 # This lets you check the file names on your console before deletion
+
+# send2trash module
+# Needs to be installed using the pip installer
+
+# Send2Trash.send2trash()
+filePath = os.path.abspath('folder1/spam.py')
+print(filePath)
+# send2trash.send2trash('/Users/aimanaaw/automate-with-python/files/folder1/spam1.py')
