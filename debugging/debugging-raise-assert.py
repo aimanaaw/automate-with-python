@@ -1,3 +1,5 @@
+import traceback
+
 '''
 
 *********
@@ -22,4 +24,5 @@ def boxPrint(symbol, width, height):
 	print(symbol * width)
 
 
-boxPrint('x', 1, 1)
+# boxPrint('x', 1, 1)
+# traceback.format_exc()
