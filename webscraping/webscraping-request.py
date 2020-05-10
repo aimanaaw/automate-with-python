@@ -17,3 +17,5 @@ for chunk in res.iter_content(100000):
 	playFile.write(chunk)
 
 playFile.close()
+
+# Request is not the best option to use if you navigate through a page. Selenium is a better option
