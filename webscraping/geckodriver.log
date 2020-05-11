@@ -619,3 +619,254 @@ JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020043
 1589166584048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 1589166586683	Marionette	INFO	Listening on port 60665
 1589166586719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://4f90efc3-ac06-f349-816b-39e2120a0d2b/lib/adblockplus.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit jid1-NIfFY2CA8fy1tg@jetpack.137438953521
+JavaScript error: moz-extension://4f90efc3-ac06-f349-816b-39e2120a0d2b/include.preload.js, line 944: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://4f90efc3-ac06-f349-816b-39e2120a0d2b/include.preload.js, line 2236: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://4f90efc3-ac06-f349-816b-39e2120a0d2b/include.postload.js, line 765: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://4f90efc3-ac06-f349-816b-39e2120a0d2b/include.preload.js, line 944: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://4f90efc3-ac06-f349-816b-39e2120a0d2b/include.preload.js, line 2236: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://4f90efc3-ac06-f349-816b-39e2120a0d2b/include.preload.js, line 944: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://4f90efc3-ac06-f349-816b-39e2120a0d2b/include.preload.js, line 2236: Error: Could not establish connection. Receiving end does not exist.
+JavaScript warning: moz-extension://4f90efc3-ac06-f349-816b-39e2120a0d2b/lib/adblockplus.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 19: TypeError: browser is null
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9F0001,name=PTexture::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xD,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 19: TypeError: browser is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 19: TypeError: browser is null
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 19: TypeError: browser is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e982f7f45b9b, line 20894: TypeError: t.className.indexOf is not a function
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 19: TypeError: browser is null
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e60dfa27e315, line 8239: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e60dfa27e315, line 8239: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e60dfa27e315, line 8239: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e60dfa27e315, line 8239: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e60dfa27e315, line 8239: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e60dfa27e315, line 8239: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea9522564cd0, line 19689: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea9522564cd0, line 19689: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea9522564cd0, line 19689: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea9522564cd0, line 19689: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea9522564cd0, line 19689: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea9522564cd0, line 19689: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea9522564cd0, line 19689: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea9522564cd0, line 19689: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea9522564cd0, line 19689: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea9522564cd0, line 19689: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea9522564cd0, line 19689: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea9522564cd0, line 19689: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea9522564cd0, line 19689: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea9522564cd0, line 19689: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea9522564cd0, line 19689: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea9522564cd0, line 19689: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea9522564cd0, line 19689: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea9522564cd0, line 19689: TypeError: t.className.indexOf is not a function
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 19: TypeError: browser is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea71fba5b2a5, line 7626: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea71fba5b2a5, line 7626: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea71fba5b2a5, line 7626: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea71fba5b2a5, line 7626: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea71fba5b2a5, line 7626: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea71fba5b2a5, line 7626: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea71fba5b2a5, line 7626: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea71fba5b2a5, line 7626: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea71fba5b2a5, line 7626: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea71fba5b2a5, line 7626: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea71fba5b2a5, line 7626: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea71fba5b2a5, line 7626: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea71fba5b2a5, line 7626: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5ea71fba5b2a5, line 7626: TypeError: t.className.indexOf is not a function
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 19: TypeError: browser is null
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e9584fa20874, line 24047: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e9584fa20874, line 24047: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e9584fa20874, line 24047: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e9584fa20874, line 24047: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e9584fa20874, line 24047: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e9584fa20874, line 24047: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e9584fa20874, line 24047: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e9584fa20874, line 24047: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e9584fa20874, line 24047: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e9584fa20874, line 24047: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e9584fa20874, line 24047: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e9584fa20874, line 24047: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e9584fa20874, line 24047: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e9584fa20874, line 24047: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e9584fa20874, line 24047: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e9584fa20874, line 24047: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e9584fa20874, line 24047: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e9584fa20874, line 24047: TypeError: t.className.indexOf is not a function
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 19: TypeError: browser is null
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e996d2fc86c5, line 12889: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e996d2fc86c5, line 12889: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e996d2fc86c5, line 12889: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e996d2fc86c5, line 12889: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e996d2fc86c5, line 12889: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e996d2fc86c5, line 12889: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e996d2fc86c5, line 12889: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e996d2fc86c5, line 12889: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e996d2fc86c5, line 12889: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e996d2fc86c5, line 12889: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e996d2fc86c5, line 12889: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e996d2fc86c5, line 12889: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e996d2fc86c5, line 12889: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e996d2fc86c5, line 12889: TypeError: t.className.indexOf is not a function
+JavaScript error: https://www.pornhub.com/view_video.php?viewkey=ph5e996d2fc86c5, line 12889: TypeError: t.className.indexOf is not a function
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 19: TypeError: browser is null
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 19: TypeError: browser is null
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 19: TypeError: browser is null
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xD,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit jid1-NIfFY2CA8fy1tg@jetpack.137438953709
+1589172649919	Marionette	INFO	Stopped listening on port 60665
