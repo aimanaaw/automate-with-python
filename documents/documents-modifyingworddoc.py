@@ -14,3 +14,6 @@ print(p.runs[0].text)
 p.runs[3].underline = True
 p.runs[3].text = 'italic and underlined'
 documentObject.save('demo2.docx')
+
+p.style = 'Title'
+documentObject.save('demo3.docx')
