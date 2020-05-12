@@ -17,3 +17,13 @@ documentObject.save('demo2.docx')
 
 p.style = 'Title'
 documentObject.save('demo3.docx')
+
+d = docx.Document()
+d.add_paragraph('Hello this is a paragraph')
+d.add_paragraph('Hello this is another paragraph')
+d.save('demo4.docx')
+p1 = d.paragraphs[0]
+p1.add_run('\nThis is a new run')
+p1.runs[1].bold = True
+print(p1.runs[1])
+d.save('demo6.docx')
