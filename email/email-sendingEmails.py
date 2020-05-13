@@ -9,6 +9,7 @@ conn.ehlo()
 # tls encryption
 conn.starttls()
 conn.login('email@gmail.com','password')
+# With gmail you would need an application specific password
 # Subject header is 3rd argument
 conn.sendmail('sendfrom@gmail.com', 'sendto@gmail.com','Subject: So long... \n\n, \nSo long, and thanks for all the fish.\n\n')
 # {} black dictionary means the email was sent
