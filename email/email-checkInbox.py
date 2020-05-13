@@ -28,4 +28,8 @@ message.get_payload().decode('UTF-8')
 conn.list_folders() #returns a list of tuples where the third item is the folder
 
 # to delete emails
-conn.select_folder('INBOX', readonly=False)
+# conn.select_folder('INBOX', readonly=False)
+# UID1 = conn.search(['ON 24-Aug-2015'])
+
+
+# conn.delete_messages([UID1/UIDs])
