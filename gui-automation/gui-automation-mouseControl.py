@@ -13,4 +13,5 @@ print(pyautogui.position())
 
 # pyautogui.moveRel(20,0, duration=2)
 
-pyautogui.click(130, 196, duration=2)
+# pyautogui.click(130, 196, duration=2)
+pyautogui.displayMousePosition()
