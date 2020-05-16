@@ -14,13 +14,21 @@
 # One functions local scope variables does not have access to another functions local scope variables
 # You can use the same name for different variables if they are in different scopes
 
+# def spam():
+# 	eggs = 99
+# 	chicken()
+# 	print(eggs)
+
+# def chicken():
+# 	beef = 101
+# 	eggs =  #chicken() eggs is separate to spam() eggs
+
+# spam()
+
 def spam():
-	eggs = 99
-	chicken()
+	eggs = 99 # if this local statement isn't present, python will use the global eggs variable
 	print(eggs)
 
-def chicken():
-	beef = 101
-	eggs =  #chicken() eggs is separate to spam() eggs
-
+eggs = 42
 spam()
+print(eggs)
