@@ -25,8 +25,19 @@
 
 # spam()
 
+# def spam():
+# 	eggs = 99 # if this local statement isn't present, python will use the global eggs variable
+# 	print(eggs)
+
+# eggs = 42
+# spam()
+# print(eggs)
+
+
+# To assign a new value to a global variable from inside a function
 def spam():
-	eggs = 99 # if this local statement isn't present, python will use the global eggs variable
+	global eggs #Tells python that the global variable will be used
+	eggs = 99 
 	print(eggs)
 
 eggs = 42
