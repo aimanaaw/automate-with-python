@@ -15,3 +15,5 @@ a,b = b, a
 print(a ,b)
 
 # Augmented assignment variables
+spam = 42
+spam = spam + 1
